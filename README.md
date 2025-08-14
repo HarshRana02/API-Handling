@@ -18,6 +18,10 @@ A simple Python script that fetches stock market data using a public API and pri
 ## 📦 Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   ```git bash
+   git clone https://github.com/HarshRana02/API-Handling.git
+   cd API-Handling
+
+2. **Install Modules**
+   ```git bash
+   pip install -r requirements.txt
