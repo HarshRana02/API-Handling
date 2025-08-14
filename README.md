@@ -1,4 +1,4 @@
-# 📈 Stock Data Fetcher
+# 📈 Stock API
 
 A simple Python script that fetches stock market data using a public API and prints key information like stock name, symbol, and market cap.
 
