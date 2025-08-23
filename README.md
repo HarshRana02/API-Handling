@@ -36,7 +36,7 @@ cd API-Handling
 pip install -r requirements.txt
 </pre>
 
-### 2. Setup ngrok
+### 3. Setup ngrok
 <pre>
 Visit https://ngrok.com/
 Download .zip file in project folder and extract it. 
